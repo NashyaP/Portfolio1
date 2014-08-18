@@ -40,7 +40,7 @@ p {
 }
 
 a {
-    color: #219ab3;
+    color: #CC6699;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -275,7 +275,7 @@ a:focus {
 
 #about{
     padding:50px 0 100px 0;
-     background: #18bc9c;
+     background: #CC6699;
 }
 
 @media(min-width:767px) {
